@@ -19,3 +19,14 @@ OKR 항목 중 매주 2개의 프로그래밍 문제 해결 결과 저장을 위
 2. 프로그래머스/모의고사 - https://programmers.co.kr/learn/courses/30/lessons/42840
 </div>
 </details>
+
+### 4월
+<details>
+<summary>1주차(3/28~4/3)</summary>
+<div>       
+1. 프로그래머스/H-Index - https://programmers.co.kr/learn/courses/30/lessons/42747
+<br>
+2. 프로그래머스/영어끝말잇기 - https://programmers.co.kr/learn/courses/30/lessons/12981
+</div>
+</details>
+
