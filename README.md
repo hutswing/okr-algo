@@ -29,4 +29,11 @@ OKR 항목 중 매주 2개의 프로그래밍 문제 해결 결과 저장을 위
 2. 프로그래머스/영어끝말잇기 - https://programmers.co.kr/learn/courses/30/lessons/12981
 </div>
 </details>
-
+<details>
+<summary>2주차(4/4~4/10)</summary>
+<div>       
+1. 프로그래머스/N진수 게임 - https://programmers.co.kr/learn/courses/30/lessons/17687
+<br>
+2. 프로그래머스/캐시 - https://programmers.co.kr/learn/courses/30/lessons/17680
+</div>
+</details>
