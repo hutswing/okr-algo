@@ -37,3 +37,11 @@ OKR 항목 중 매주 2개의 프로그래밍 문제 해결 결과 저장을 위
 2. 프로그래머스/캐시 - https://programmers.co.kr/learn/courses/30/lessons/17680
 </div>
 </details>
+<details>
+<summary>3주차(4/11~4/17)</summary>
+<div>       
+1. 프로그래머스/예산 - https://programmers.co.kr/learn/courses/30/lessons/12982
+<br>
+2. 프로그래머스/전화번호 목록 - https://programmers.co.kr/learn/courses/30/lessons/42577
+</div>
+</details>
