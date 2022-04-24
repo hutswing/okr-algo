@@ -45,3 +45,11 @@ OKR 항목 중 매주 2개의 프로그래밍 문제 해결 결과 저장을 위
 2. 프로그래머스/전화번호 목록 - https://programmers.co.kr/learn/courses/30/lessons/42577
 </div>
 </details>
+<details>
+<summary>4주차(4/18~4/24)</summary>
+<div>       
+1. 프로그래머스/타겟넘버 - https://programmers.co.kr/learn/courses/30/lessons/43165
+<br>
+2. 프로그래머스/다리를 지나는 트럭 - https://programmers.co.kr/learn/courses/30/lessons/42583
+</div>
+</details>
