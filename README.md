@@ -61,3 +61,13 @@ OKR 항목 중 매주 2개의 프로그래밍 문제 해결 결과 저장을 위
 2. 프로그래머스/오픈채팅방 - https://programmers.co.kr/learn/courses/30/lessons/42888
 </div>
 </details>
+
+### 5월
+<details>
+<summary>1주차(5/2~5/9)</summary>
+<div>       
+1. 프로그래머스/기능개발 - https://programmers.co.kr/learn/courses/30/lessons/42586
+<br>
+2. 프로그래머스/크레인 인형뽑기 게임 - https://programmers.co.kr/learn/courses/30/lessons/64061
+</div>
+</details>
